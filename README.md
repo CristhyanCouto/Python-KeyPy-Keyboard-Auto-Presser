@@ -1,9 +1,5 @@
-# A keypy Flet app
+This Python App was coded using the Flet lib and was built with Flutter.
 
-An example of a minimal Flet app.
+It's a keyboard auto presser.
 
-To run the app:
-
-```
-flet run [app_directory]
-```
+I'll post the link to download the built app here: --link--
